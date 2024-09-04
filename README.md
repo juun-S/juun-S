@@ -20,7 +20,7 @@
 
 **Database**
 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+<img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
 
 **Tools**
 
@@ -48,5 +48,12 @@
 </picture>
 </div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juun-S&layout=compact)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juun-S&layout=donut)](https://github.com/juun-S/github-readme-stats)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juun-S&layout=compact"/>
+</div>
+
+<div align="center">
+  <a href="https://github.com/juun-S/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juun-S&layout=donut"/>
+  </a>
+</div>
