@@ -48,7 +48,7 @@
 </picture></div>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juun-S&layout=compact)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juun-S&layout=donut)](https://github.com/juun-S/github-readme-stats)
 <!--
 **juun-S/juun-S** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
