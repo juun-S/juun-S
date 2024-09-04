@@ -53,6 +53,6 @@
 
 <div align="center">
   <a href="https://github.com/juun-S/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juun-S&layout=donut"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juun-S&langs_count=10&layout=compact&theme=gruvbox"/>
   </a>
 </div>
