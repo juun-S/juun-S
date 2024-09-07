@@ -1,5 +1,12 @@
+<div style="display: flex; align-items: center;">
+    <img src="https://github.com/user-attachments/assets/154b337e-40ef-487f-8840-ec2997203d89" alt="KakaoTalk Image" width="100px" height="100px">
+    <span style="margin-top: 50px;">🖥️ I am a passionate Java web developer </span>
+</div>
+
+
 <h3 align="center">✨ Tech Stack ✨</h3>
-<br>
+
+
 <div align="center">
 
 **Backend🎛️**
