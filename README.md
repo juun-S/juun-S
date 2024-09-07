@@ -6,7 +6,10 @@
 
 <img src='https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white'/> 
 <img src='https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white'/> 
+<img src="https://img.shields.io/badge/spring%20boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot">
+<img src="https://img.shields.io/badge/spring%20security-%236DB33F.svg?style=for-the-badge&logo=springsecurity&logoColor=white" alt="Spring Boot">
 <img src='https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white'/>
+<img src="https://img.shields.io/badge/gradle-%2302303a.svg?style=for-the-badge&logo=gradle&logoColor=white" alt="Gradle">
 <img src='https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black'/>
 <img src='https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white'/>
 
@@ -31,8 +34,10 @@
 <img src='https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white'/>
 <img src='https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white'/>
 <img src='https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white'/>
-
+<img src="https://img.shields.io/badge/NAVER%20Cloud-%2303C75A.svg?style=for-the-badge&logo=naver&logoColor=white" alt="NAVER Cloud">
+<img src="https://img.shields.io/badge/KAKAO%20MAP%20API-%23FEE500.svg?style=for-the-badge&logo=kakao&logoColor=black" alt="KAKAO">
 </div>
+
 <br>
 <div align="center">
 <picture>
