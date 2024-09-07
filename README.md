@@ -1,5 +1,4 @@
 
-<h2 align="center">⭐ I am a passionate Java web developer ⭐</h2>
 
 ---
 
