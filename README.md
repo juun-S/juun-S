@@ -1,8 +1,8 @@
 <h3 align="center">✨ Tech Stack ✨</h3>
-
+<br>
 <div align="center">
 
-**Backend**
+**Backend🎛️**
 
 <img src='https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white'/> 
 <img src='https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white'/> 
@@ -12,22 +12,33 @@
 <img src="https://img.shields.io/badge/gradle-%2302303a.svg?style=for-the-badge&logo=gradle&logoColor=white" alt="Gradle">
 <img src='https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black'/>
 <img src='https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white'/>
+<br>
 
-**Frontend**
+**Frontend💻**
 
-<img src='https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E'/>
-<img src='https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB'/>
-<img src='https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white'/> 
 <img src='https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white'/>
-<img src='https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white'/>
+<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+<img src='https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white'/> 
+<img src='https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E'/>
+<img src="https://img.shields.io/badge/AJAX-lightgrey?style=for-the-badge&logo=javascript&logoColor=black" alt="AJAX">
+<img src="https://img.shields.io/badge/JSTL-lightgrey?style=for-the-badge&logo=java&logoColor=black" alt="JSTL">
+<img src='https://img.shields.io/badge/JSP-lightgrey?style=for-the-badge&logo=java&logoColor=black' alt='JSP'/>
+<img src='https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB'/>
+<img src='https://img.shields.io/badge/axios-%2320232a.svg?style=for-the-badge&logo=axios&logoColor=%2361DAFB'/>
+<img src='https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white'/>
 
-**Database**
+<br>
+
+**Database🗄️**
 
 <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src='https://img.shields.io/badge/mybatis-%23c3002f.svg?style=for-the-badge&logo=mybatis&logoColor=white' alt='MyBatis'/>
+<img src='https://img.shields.io/badge/JPA-blue?style=for-the-badge&logo=java&logoColor=white' alt='JPA'/>
+<br>
 
-**Tools**
+**Tools🛠️**
 
-<img src='https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white'/>
+
 <img src='https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white'/>
 <img src='https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white'/>
 <img src='https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white'/>
@@ -51,6 +62,7 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=juun-S&show_icons=true" />
 </picture>
+
 </div>
 
 <br>
