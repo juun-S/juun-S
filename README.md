@@ -73,3 +73,9 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juun-S&langs_count=10&layout=compact&theme=gruvbox"/>
   </a>
 </div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juun-S&langs_count=10&layout=compact&theme=gruvbox" />
+</div>
+
+
