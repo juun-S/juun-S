@@ -35,9 +35,9 @@
   </picture>
 </div>
 <br>
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juun-S&langs_count=20&layout=donut&theme=gruvbox" alt="Top Languages" />
-</div>
+</div> -->
 
 <div align="right">
   <img src="https://github.com/user-attachments/assets/154b337e-40ef-487f-8840-ec2997203d89" alt="KakaoTalk Image" width="50px" height="50px">
